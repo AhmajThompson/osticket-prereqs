@@ -26,7 +26,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install VC_redist.x86.exe
 - Install MySQL
 - Configure MySQL security settings
-- Configure Roles (for grouping permissions)
 
 
 <h2>Installation Steps</h2>
